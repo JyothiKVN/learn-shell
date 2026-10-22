@@ -6,3 +6,4 @@
 echo "All args passed to the script: $@"
 echo "Args passed as a word: $*"
 echo "Number of args passed: $#"
+echo "progressing"
